@@ -1,0 +1,16 @@
+.nav-menu.practice a:hover {
+    background-color: #b84dfa;
+    transform: translateX(10px);
+}
+
+.nav-menu.practice a:active {
+    background-color: #9D00FF !important;
+}
+
+.nav-menu.practice a:first-child {
+    background-color: yellow;
+}
+
+.nav-menu.practice a:last-child {
+    background-color: green;
+}
